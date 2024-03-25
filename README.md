@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+my+name+is+Elina+👋)](https://git.io/typing-svg)
 ## 💫 About Me:
-🌱 I'm a front-end developer<br>📫 How to contact me: 8gelina@gmail.com<br>😄 Location: Russia, Kazan<br>⚡ Fun fact: even when I want to be late for a meeting, I arrive before everyone else)
+🌱 I'm a frontend-developer<br>📫 How to contact me: 8gelina@gmail.com<br>😄 Location: Russia, Kazan<br>⚡ Fun fact: even when I want to be late for a meeting, I arrive before everyone else)
 
 
 ## 🌐 Socials:
